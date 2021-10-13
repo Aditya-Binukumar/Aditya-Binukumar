@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi, I'm Aditya Binukumar 👋
 
+I'm a bioengineering student with a passion for learning.
 <!--
 **Aditya-Binukumar/Aditya-Binukumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
